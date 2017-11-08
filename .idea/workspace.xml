@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce0090e3-50b5-4c2e-82ba-937e1e21c54f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="ce0090e3-50b5-4c2e-82ba-937e1e21c54f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="Fahrenheit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="373">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
@@ -392,7 +390,7 @@
       <updated>1509552847129</updated>
       <workItem from="1509552849370" duration="3179000" />
       <workItem from="1510077354696" duration="931000" />
-      <workItem from="1510078575391" duration="5772000" />
+      <workItem from="1510078575391" duration="6396000" />
     </task>
     <servers />
   </component>
@@ -420,7 +418,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9882000" />
+    <option name="totallyTimeSpent" value="10506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="488" y="23" width="1400" height="833" extended-state="0" />
@@ -607,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="373">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
